@@ -1,0 +1,3 @@
+Paul a 5 pommes
+Maroe lui en vole 2
+Combien reste t-il de pommes ?
