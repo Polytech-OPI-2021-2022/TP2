@@ -1,3 +1,8 @@
 Paul a 5 pommes
 Maroe lui en vole 2
 Combien reste t-il de pommes ?
+
+QuietRocket's Response:
+    There are five pomme's left.
+    This is because we didn't specify who's apples we are counting!
+    8-)
